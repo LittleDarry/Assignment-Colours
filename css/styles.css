@@ -1,0 +1,19 @@
+h1 {
+    color: aquamarine;
+}
+
+h2 {
+    color: #e69d61;
+}
+
+h3 {
+    color: rgb(4, 180, 255);
+}
+
+h4 {
+    color: hsl(254, 72%, 51%);
+}
+
+div {
+    background-color: crimson;
+}
